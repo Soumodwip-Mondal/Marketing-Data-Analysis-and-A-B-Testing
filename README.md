@@ -1,1 +1,1 @@
-Marketing Analysis and A/B Testing
+Marketing Channels Analysis and A/B Testing
